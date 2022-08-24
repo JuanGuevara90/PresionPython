@@ -21,3 +21,6 @@ pip install firebase_admin
 pip install sklearn
 pip install numpy
 pip install pandas
+
+# Info para envio
+{ "presionS":"140", "presionD":"80"}
